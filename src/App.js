@@ -9,7 +9,7 @@ class App extends Component {
     todos: [
       {
         id: 1,
-        title: "Organize Garage",
+        title: "Organize Garage!",
         completed: false
       },
       {
